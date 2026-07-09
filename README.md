@@ -11,7 +11,7 @@ This narrative is a strategic asset: it manufactures apathy, discourages resista
 
 My work directly challenges this engineered resignation, proving that effective privacy is not only possible but disrupts the business models built on your surrender.
 
-The Reality of Linkability and Identifiability
+### The Reality of Linkability and Identifiability
 
 Most users operate under the false assumption that using separate apps for different tasks keeps their data siloed. In reality, two specific processes dismantle this illusion:
 
