@@ -32,9 +32,12 @@ Intimate Data for Ad Profit
 
 Applications trusted with sensitive health information have faced regulatory action and class-action lawsuits for sharing data with third parties:
   
-    • Therapy Platforms: In 2023, a major online therapy service agreed to a $7.8 million settlement with US regulators over allegations it shared users' intake responses (including details about depression, anxiety, and suicidal thoughts) with advertising platforms like Facebook and Snapchat. Regulators alleged that users seeking confidential help were instead profiled and targeted based on their mental health status, contrary to the company's privacy promises. 
+  • Therapy Platforms: In 2023, a major online        therapy service agreed to a $7.8 million            settlement with US regulators over allegations it   shared users' intake responses (including details   about depression, anxiety, and suicidal thoughts)   with advertising platforms like Facebook and        Snapchat. Regulators alleged that users seeking     confidential help were instead profiled and         targeted based on their mental health status,       contrary to the company's privacy promises. 
    
-    • Fertility Trackers: A leading period and fertility tracking app faced a class-action lawsuit resulting in a preliminary approval of a $59.5 million settlement in 2026. The action followed earlier regulatory findings that the app had disclosed users' menstrual cycles, pregnancy status, and sexual activity to advertisers and analytics firms. Despite promising confidentiality, the company was alleged to have shared this intimate data to optimise ad targeting. 
+  • Fertility Trackers: A leading period and          fertility tracking app faced   a class-action       lawsuit resulting in a preliminary   approval of    a $59.5 million settlement in 2026.    
+  The action followed earlier regulatory findings     that the app had disclosed users' menstrual         cycles, pregnancy status, and sexual activity to    advertisers and analytics firms.
+  Despite promising confidentiality, the company      was alleged to have shared this intimate data to    optimise ad targeting. 
+
 
 These cases illustrate a clear process: you provide data in a specific context (driving, health tracking), trusting the stated purpose. Regulatory findings indicate that companies have subsequently broken that context, linking data to external brokers and making users identifiable to third parties who profit from their risk profile. My work stops this process before it begins. 
 
