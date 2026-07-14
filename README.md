@@ -118,14 +118,11 @@ I am happy to discuss sanitised methodologies and generalised frameworks under a
 
 Unlike fear-driven narratives promoted by some online personalities, I advocate for a balanced, thoughtful approach to privacy. This protects your digital and physical life without compromising usability or security. 
 
-The mental models I teach – data minimisation, compartmentalisation and threat-aware behaviour – are universally applicable principles, though specific tactical implementations must always be adapted to comply with local laws and regulations. 
-
-
 
 ## Important Notice: 
 
 
-It's essential that you, as a user, consult your local laws and regulations in your specific jurisdiction before implementing any privacy-focused strategies or 
+It's essential that you, as a user, consult your local laws in your specific jurisdiction before implementing any privacy-focused strategies or 
 frameworks provided here. Proceed with awareness of all applicable legal requirements.
 
 
