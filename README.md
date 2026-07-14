@@ -125,9 +125,9 @@ The mental models I teach – data minimisation, compartmentalisation and threat
 ## Important Notice: 
 
 
-All strategies and frameworks provided are designed for lawful privacy enhancement and personal security. They do not constitute advice on evading legal obligations, tax authorities, law enforcement investigations, or financial regulations. 
+It's essential that you, as a user, consult your local laws and regulations in your specific jurisdiction before implementing any privacy-focused strategies or 
+frameworks provided here. Proceed with awareness of all applicable legal requirements.
 
-Techniques involving 'obfuscation' are limited to digital data protection (e.g., reducing tracker accuracy) and do not involve identity fraud, document forgery, or assisting in any illegal activity. I do not provide regulated legal or financial advice; clients should seek qualified professional counsel for such matters.
 
 
 Feel free to explore this profile, or reach out directly to discuss how I can help you achieve your privacy goals.
