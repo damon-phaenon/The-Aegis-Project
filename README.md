@@ -136,7 +136,8 @@ Unlike fear-driven narratives promoted by some online personalities, I advocate 
 It's essential that you, as a user, consult your local laws in your specific jurisdiction before implementing any privacy-focused strategies or 
 frameworks provided here. Proceed with awareness of all applicable legal requirements.
 
-
+<br>
+<br>
 
 Feel free to explore this profile, or reach out directly to discuss how I can help you achieve your privacy goals.
 
