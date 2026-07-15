@@ -39,6 +39,8 @@ Most users operate under the false assumption that using separate apps for diffe
 **Identifiability** is the final step where that linked profile is re-associated with your real-world identity. Research has demonstrated that the vast majority of individuals can be correctly re-identified from 'anonymised' datasets using only a handful of demographic attributes. When you combine linkable data with public records or purchased data broker lists, the 'anonymous' user vanishes.
 
 
+<br>
+<br>
 
 ## Case Studies in Regulatory Findings
 
@@ -79,6 +81,7 @@ These cases illustrate a clear process: you provide data in a specific context (
 
 <br>
 <br>
+
 ## What I Offer
 
 
@@ -113,6 +116,7 @@ Tailored strategies designed around your specific needs, with hands-on support t
 
 <br>
 <br>
+
 ## Projects and Contributions
 
 Due to the sensitive nature of my clients' work, which often involves high-risk environments and strict anonymity requirements, specific case studies and code repositories are kept private. 
