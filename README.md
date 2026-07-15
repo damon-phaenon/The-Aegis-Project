@@ -139,7 +139,10 @@ Feel free to explore this profile, or reach out directly to discuss how I can he
 
 **Damon Phaenon**
 
-Contact: 
+
+
+
+## Contact: 
 
 ![image alt](https://github.com/damon-phaenon/The-Aegis-Project/blob/b63c238a9e5c29838a3f784c80e41dfd7d77d00b/SimpleX%20Chat%20Contact%20QR%20Code.jpg?raw=true)
 
