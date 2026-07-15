@@ -12,7 +12,8 @@ I am Damon Phaenon, a privacy advocate redefining how we think about anonymity i
 My mission is to empower individuals and teams to safeguard their identities and personal data against pervasive threats like state surveillance, corporate profiling and data breaches. 
 I achieve this through practical, accessible strategies that integrate seamlessly into real-world workflows, regardless of jurisdiction.
 
-
+<br>
+<br>
 
 ## Challenging the Narrative
 
@@ -23,7 +24,8 @@ This narrative is a strategic asset: it manufactures apathy, discourages resista
 
 My work directly challenges this engineered resignation, proving that effective privacy is not only possible but disrupts the business models built on your surrender.
 
-
+<br>
+<br>
 
 ## The Reality of Linkability and Identifiability
 
@@ -75,7 +77,8 @@ These cases illustrate a clear process: you provide data in a specific context (
 **My work stops this process before it begins.** 
 
 
-
+<br>
+<br>
 ## What I Offer
 
 
@@ -108,7 +111,8 @@ Strategies include minimising physical data exhaust, varying behavioural pattern
 Tailored strategies designed around your specific needs, with hands-on support to implement them effectively without sacrificing usability. These workflows integrate digital, physical and behavioural protections to ensure that if one layer is compromised, others remain intact.
 
 
-
+<br>
+<br>
 ## Projects and Contributions
 
 Due to the sensitive nature of my clients' work, which often involves high-risk environments and strict anonymity requirements, specific case studies and code repositories are kept private. 
@@ -119,6 +123,8 @@ I am happy to discuss sanitised methodologies and generalised frameworks under a
 
 Unlike fear-driven narratives promoted by some online personalities, I advocate for a balanced, thoughtful approach to privacy. This protects your digital and physical life without compromising usability or security. 
 
+<br>
+<br>
 
 ## Important Notice: 
 
