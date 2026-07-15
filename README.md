@@ -139,7 +139,7 @@ frameworks provided here. Proceed with awareness of all applicable legal require
 <br>
 <br>
 
-Feel free to explore this profile, or reach out directly to discuss how I can help you achieve your privacy goals.
+Feel free to get in touch to discuss how I can help you achieve your privacy goals.
 
 
 <br>
