@@ -3,7 +3,8 @@
 
 I am Damon Phaenon, a privacy advocate redefining how we think about anonymity in both digital and physical realms. Contrary to the stereotype of the masked hacker in a hoodie, I believe privacy is achievable and essential for everyone without retreating from the modern world.
 
-
+<br>
+<br>
 
 ## Mission
 
@@ -130,9 +131,8 @@ frameworks provided here. Proceed with awareness of all applicable legal require
 Feel free to explore this profile, or reach out directly to discuss how I can help you achieve your privacy goals.
 
 
-
-
-
+<br>
+<br>
 
 
 ### Stay safe online and offline
@@ -140,7 +140,8 @@ Feel free to explore this profile, or reach out directly to discuss how I can he
 **Damon Phaenon**
 
 
-
+<br>
+<br>
 
 ## Contact: 
 
